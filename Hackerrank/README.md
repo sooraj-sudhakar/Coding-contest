@@ -6,9 +6,10 @@ The string will be filled in a diagonal manner in a matrix.
 <p align="center">
      <img src="https://github.com/sooraj-sudhakar/Coding-contest/blob/master/Hackerrank/out.jpg">
 </p>
-The encoded string is obtained by reading row wise. The space is replaced with ‘_’ . Hence the encoded string so obtained will be:`nes__ya_____mi`. The task is to decode the encoded string back to the original string.  
+The encoded string is obtained by reading row wise. The space is replaced with ‘_’ . Hence the encoded string so obtained will be:`nes__ya_____mi`. The task is to decode the encoded string back to the original string.
+  
 
-**Sample input**
+**Sample input**  
 `mnes__ya_____mi`  
 `3`  
 
