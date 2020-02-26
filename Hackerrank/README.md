@@ -9,7 +9,7 @@ The string will be filled in a diagonal manner in a matrix.
 </p>
 The encoded string is obtained by reading row wise. The space is replaced with ‘_’ . Hence the encoded string so obtained will be:
 
-`encoded_string="nes__ya_____mi`
+     Encoded_string="nes__ya_____mi
 
 The task is to decode the encoded string back to the original string.  
    
@@ -19,4 +19,4 @@ The task is to decode the encoded string back to the original string.
 `3`  
 
 **Expected output**  
-`“my name is”`  
+`my name is`  
