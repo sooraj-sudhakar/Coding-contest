@@ -33,12 +33,4 @@ for i in range(0,mat_dimension[1]):
 out_string=''.join(temp)
 out_string=out_string.replace('_',' ')
 out_string=out_string.strip()
-  
-    
-        
-
-    
-
-        
-
-
+print(out_string)
