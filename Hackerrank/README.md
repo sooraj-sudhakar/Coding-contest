@@ -1,5 +1,5 @@
 
-### Fractal analytics - String decoding
+### Fractal analytics - [String decoding](https://github.com/sooraj-sudhakar/Coding-contest/blob/master/Hackerrank/fractal_textdecoding.py)
 Write a program to decode a text string. The input will be just encoded string and number of rows. The encoding process is mentioned below:
 
      Original string=”my name is”
